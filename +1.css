@@ -447,7 +447,7 @@ body{
     .middle .birthday .comment , .middle .childrens .comment{
     position: absolute;
     text-align:center;
-    width:145px;
+    width:136px;
     background-color: rgb(56 50 47 / 61%);
     border-radius: 80px;
     margin:2.5px 0 0 120px ;
@@ -457,7 +457,7 @@ body{
     z-index:1;
     display:flex
     }
-    .middle .childrens .comment{width:142px}
+    .middle .childrens .comment{width:155px}
 
 
     .middle .childrens:hover{width:513px;transition:all 0.6s ease-in-out }
