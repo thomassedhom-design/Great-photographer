@@ -457,7 +457,7 @@ body{
     z-index:1;
     display:flex
     }
-    .middle .childrens .comment{width:155px}
+    .middle .childrens .comment{width:170px}
 
 
     .middle .childrens:hover{width:513px;transition:all 0.6s ease-in-out }
