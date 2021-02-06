@@ -109,6 +109,7 @@ margin:10px 0 0 0
 .container .container1 .children16{width:8783px}
 .container .container1 .children17{width:10519px}
 .container .container1 .children18{width:3957px}
+.container .container1 .children19{width:7040px}
 
 .container .container1 .children2,
 .container .container1 .children3,
@@ -126,7 +127,8 @@ margin:10px 0 0 0
 .container .container1 .children15,
 .container .container1 .children16,
 .container .container1 .children17,
-.container .container1 .children18{
+.container .container1 .children18,
+.container .container1 .children19{
 height:560px;
 background-color: #cfdac8;
 display: inline-block;
@@ -176,7 +178,8 @@ font-family: 'Lobster', cursive;
 ,.container1 .children15 .photo1 
 ,.container1 .children16 .photo1
 ,.container1 .children17 .photo1
-,.container1 .children18 .photo1{
+,.container1 .children18 .photo1
+,.container1 .children19 .photo1{
     width:400px;
     height:80%;
     display: inline-block;
@@ -205,7 +208,8 @@ font-family: 'Lobster', cursive;
     .container1 .children15 .photo1 img,
     .container1 .children16 .photo1 img,
     .container1 .children17 .photo1 img,
-    .container1 .children18 .photo1 img{
+    .container1 .children18 .photo1 img,
+    .container1 .children19 .photo1 img{
         width:100%;
         height:100%;
         border-radius:80px ;
@@ -317,7 +321,8 @@ font-family: 'Lobster', cursive;
     .container .container1 .children16{width:8783px}
     .container .container1 .children17{width:10519px}
     .container .container1 .children18{width:3957px}
-    
+    .container .container1 .children19{width:7040px}
+
     .container .container1 .children2,
     .container .container1 .children3,
     .container .container1 .children4,
@@ -334,7 +339,8 @@ font-family: 'Lobster', cursive;
     .container .container1 .children15,
     .container .container1 .children16,
     .container .container1 .children17,
-    .container .container1 .children18{
+    .container .container1 .children18,
+    .container .container1 .children19{
     height:560px;
     background-color: #cfdac8;
     display: inline-block;
@@ -384,7 +390,8 @@ font-family: 'Lobster', cursive;
     ,.container1 .children15 .photo1 
     ,.container1 .children16 .photo1
     ,.container1 .children17 .photo1 
-    ,.container1 .children18 .photo1{
+    ,.container1 .children18 .photo1
+    ,.container1 .children19 .photo1{
         width:400px;
         height:80%;
         display: inline-block;
@@ -413,7 +420,8 @@ font-family: 'Lobster', cursive;
         .container1 .children15 .photo1 img,
         .container1 .children16 .photo1 img,
         .container1 .children17 .photo1 img,
-        .container1 .children18 .photo1 img{
+        .container1 .children18 .photo1 img,
+        .container1 .children19 .photo1 img{
             width:100%;
             height:100%;
             border-radius:80px ;
@@ -529,6 +537,7 @@ font-family: 'Lobster', cursive;
     .container .container1 .children16{width:8783px}
     .container .container1 .children17{width:10519px}
     .container .container1 .children18{width:3957px}
+    .container .container1 .children19{width:7040px}
     
     .container .container1 .children2,
     .container .container1 .children3,
@@ -546,7 +555,8 @@ font-family: 'Lobster', cursive;
     .container .container1 .children15,
     .container .container1 .children16,
     .container .container1 .children17,
-    .container .container1 .children18{
+    .container .container1 .children18,
+    .container .container1 .children19{
     height:560px;
     background-color: #cfdac8;
     display: inline-block;
@@ -596,7 +606,8 @@ font-family: 'Lobster', cursive;
     ,.container1 .children15 .photo1 
     ,.container1 .children16 .photo1 
     ,.container1 .children17 .photo1
-    ,.container1 .children18 .photo1 {
+    ,.container1 .children18 .photo1 
+    ,.container1 .children19 .photo1{
         width:400px;
         height:80%;
         display: inline-block;
@@ -625,7 +636,8 @@ font-family: 'Lobster', cursive;
         .container1 .children15 .photo1 img,
         .container1 .children16 .photo1 img,
         .container1 .children17 .photo1 img,
-        .container1 .children18 .photo1 img{
+        .container1 .children18 .photo1 img,
+        .container1 .children19 .photo1 img{
             width:100%;
             height:100%;
             border-radius:80px ;
@@ -742,6 +754,7 @@ font-family: 'Lobster', cursive;
     .container .container1 .children16{width:7880px}
     .container .container1 .children17{width:9478px}
     .container .container1 .children18{width:3169px}
+    .container .container1 .children19{width:6321px}
     
     .container .container1 .children2,
     .container .container1 .children3,
@@ -759,7 +772,8 @@ font-family: 'Lobster', cursive;
     .container .container1 .children15,
     .container .container1 .children16,
     .container .container1 .children17,
-    .container .container1 .children18{
+    .container .container1 .children18,
+    .container .container1 .children19{
     height:560px;
     background-color: #cfdac8;
     display: inline-block;
@@ -809,7 +823,8 @@ font-family: 'Lobster', cursive;
     ,.container1 .children15 .photo1 
     ,.container1 .children16 .photo1 
     ,.container1 .children17 .photo1
-    ,.container1 .children18 .photo1{
+    ,.container1 .children18 .photo1
+    ,.container1 .children19 .photo1{
         width:358px;
         height:80%;
         display: inline-block;
@@ -838,10 +853,13 @@ font-family: 'Lobster', cursive;
         .container1 .children15 .photo1 img,
         .container1 .children16 .photo1 img,
         .container1 .children17 .photo1 img,
-        .container1 .children18 .photo1 img{
+        .container1 .children18 .photo1 img,
+        .container1 .children19 .photo1 img{
             width:100%;
             height:100%;
             border-radius:80px ;
         }}
+        
+        
         
         
